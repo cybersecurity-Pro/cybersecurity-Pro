@@ -35,7 +35,7 @@ Here you’ll find my projects, labs, and documentation that showcase my journey
 ---
 
 ## 📫 Connect with Me  
-- 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/prabhat-shinde-22ba28323)  
+- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/prabhat-shinde-22ba28323)  
 - ✉️ Email: prabhatshinde095@gmail.com  
 
 ---
