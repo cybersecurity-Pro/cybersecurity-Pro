@@ -22,7 +22,7 @@ Here you’ll find my projects, labs, and documentation that showcase my journey
 ---
 
 ## 📂 Featured Projects  
-👉 Check out my [Projects Repository](https://github.com/cybersecurity-Pro/Projects) for detailed walkthroughs and documentation of my cybersecurity work.  
+👉 Check out my [Lab_Walkthroughs Repository](https://github.com/cybersecurity-Pro/Lab_Walkthroughs) for detailed walkthroughs and documentation of my cybersecurity work.  
 👉 you can also checkout my other respositories which contains the tools i made during my prodigy infotech internship as cybersecurity intern.
 
 ---
